@@ -4,6 +4,7 @@ This project focuses on analyzing a Bike Sales dataset using Microsoft Excel. Th
 # DASHBORAD
 <img width="1105" height="572" alt="Bike sales" src="https://github.com/user-attachments/assets/967726d3-7b7c-4d78-b36f-02ee45c5fb5e" />
 # Objectives
+
 Clean and organize the raw dataset for accurate analysis.
 
 Identify factors influencing customer decisions to purchase a bike.
@@ -17,3 +18,5 @@ Excel: Data cleaning, analysis, pivot tables, charts.
 Dashboarding: Slicers and interactive visuals for dynamic reporting.
 
 Data Cleaning: Removing duplicates, handling missing values, and formatting.
+
+
