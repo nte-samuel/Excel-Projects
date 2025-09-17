@@ -1,11 +1,11 @@
 # BIKE SALES
 
 # Table of Content
-[BIKE SALES](https://github.com/nte-samuel/Excel-Projects/blob/main/README.md#bike-sales)
+-  [BIKE SALES](https://github.com/nte-samuel/Excel-Projects/blob/main/README.md#bike-sales)
 
-[Education & Career](https://github.com/nte-samuel/Excel-Projects/blob/main/README.md#education--career)
+-  [Education & Career](https://github.com/nte-samuel/Excel-Projects/blob/main/README.md#education--career)
 
-[Supermart Grocery Sales](https://github.com/nte-samuel/Excel-Projects/blob/main/README.md#-supermart-grocery-sales)
+-  [Supermart Grocery Sales](https://github.com/nte-samuel/Excel-Projects/blob/main/README.md#-supermart-grocery-sales)
 
 # Project Overview
 This project focuses on analyzing a Bike Sales dataset using Microsoft Excel. The primary goal was to transform raw sales data into actionable insights and create an interactive dashboard that helps stakeholders quickly understand key trends and patterns in bike purchases.
