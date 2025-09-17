@@ -21,7 +21,7 @@ Data Cleaning: Removing duplicates, handling missing values, and formatting.
 
 
 # Education & Career
-# Project Overview
+## Project Overview
 
 This project explores the relationship between education levels and career outcomes using Microsoft Excel. The dataset was analyzed, cleaned, and visualized to uncover patterns that show how education impacts employment, salary ranges, and career progression. An interactive dashboard was built to make insights easy to explore for decision-makers and students alike.
 # Dashboard
@@ -44,7 +44,7 @@ Dashboarding: Slicers, conditional formatting, and interactive visuals.
 Data Preparation: Removing duplicates, handling missing values, formatting fields.
 
 # 🛒 Supermart Grocery Sales
-# Project Overview
+## Project Overview
 This project focuses on analyzing Supermart grocery sales data using Microsoft Excel. The raw dataset was cleaned, structured, and transformed into an interactive dashboard that provides clear insights into sales performance, customer behavior, and product trends.
 # Dashboard 
 <img width="1076" height="593" alt="Supemart grocery sales" src="https://github.com/user-attachments/assets/0d6870a4-47bf-4b9b-8a8b-8bfb9d03ebe3" />
